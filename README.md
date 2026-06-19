@@ -1,4 +1,4 @@
-# PyCon26 Singapore Presentation
+# PyCon26 Singapore Presentation Resources
 
 ## Stop training, start prompting: The future of dynamic video surveillance
 
